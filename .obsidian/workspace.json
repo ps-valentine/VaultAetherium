@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herblore.md",
+                "file": "Invention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Herblore"
+              "title": "Invention"
             }
           }
         ],
@@ -165,16 +165,27 @@
               "icon": "lucide-list",
               "title": "Outline of Farming"
             }
+          },
+          {
+            "id": "9ae7f1a3f372f48f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,15 +195,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d451d1d4fcc840a",
+  "active": "9ae7f1a3f372f48f",
   "lastOpenFiles": [
+    "IntervalActivities.md",
     "Herblore.md",
     "Untitled.md",
     "Farming.md",
     "growceries.md",
     "Invention.md",
     "Colors",
-    "IntervalActivities.md",
     "X   X   X.md",
     "Summoning.md",
     "LeagueCatalysts.md",
