@@ -45,7 +45,7 @@
 	- Super ranging (4)
 		- Dwarf weed potion (unf)
 		- Wine of Zamorak
-	- Super magic  (4)
+	- Super magic (4)
 		- Lantadyme potion (unf)
 		- Potato cactus
 	- Super necromancy (4)
