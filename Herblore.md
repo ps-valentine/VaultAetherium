@@ -42,10 +42,10 @@
 	- Super defence (4)
 		- Cadantine potion (unf)
 		- White berries
-	- Super ranging potion (4)
+	- Super ranging (4)
 		- Dwarf weed potion (unf)
 		- Wine of Zamorak
-	- Super magic potion (4)
+	- Super magic  (4)
 		- Lantadyme potion (unf)
 		- Potato cactus
 	- Super necromancy (4)
