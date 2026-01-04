@@ -1,3 +1,11 @@
+**Extended super antifire potion**
+- Super antifire (3)
+	- Antifire (3)
+		- Lantadyme potion (unf)
+		- Dragon scale dust
+	- Phoenix feather
+- Clean arbuck
+
 **Elder overload potion**
 - Supreme overload potion (6)
 	- Crystal flask
