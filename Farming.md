@@ -9,7 +9,7 @@
 
 x7 **Fruit Tree** (13h 20M for Carambola Tree): Brimhaven (Lodestone), Catherby (Lodestone), Herblore Habitat, Lleyta (Tirannwn Quiver), Prifddinas Meilyr District (Crystal Teleport Seed), Tree Gnome Stronghold, west of Tree Gnome Village (Yanille lodestone or Faerie Rings)
 
-**Harmony Pillars:** Prifddinas Meilyr District (Crystal Teleport Seed) --- 12/21: Constitution, Cooking, Prayer, Woodcutting
+**Harmony Pillars:** Prifddinas Meilyr District (Crystal Teleport Seed) --- 1/4: Attack, Cooking, Smithing, Woodcutting
 
 x8 **Herbs** (60 Minutes): all Allotments and... Crux Equal in Al Kharid (Seed), Prifddinas Crwys District (Crystal Teleport Seed/Spirit Tree), Troll Stronghold, Wilderness (Sword Teleport)
 

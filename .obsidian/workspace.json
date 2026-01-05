@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wishlist.md",
+                "file": "Farming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wishlist"
+              "title": "Farming"
             }
           }
         ],
@@ -197,6 +197,7 @@
   },
   "active": "241ad08d396e11e9",
   "lastOpenFiles": [
+    "Wishlist.md",
     "Herblore.md",
     "Invention.md",
     "IntervalActivities.md",
@@ -207,7 +208,6 @@
     "X   X   X.md",
     "Summoning.md",
     "LeagueCatalysts.md",
-    "Wishlist.md",
     "Archaeology.md",
     "Smithing.md",
     "create a link.md",
