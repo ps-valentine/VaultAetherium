@@ -19,4 +19,4 @@ x8 **Herbs** (60 Minutes): all Allotments and... Crux Equal in Al Kharid (Seed),
 
 **Mushrooms** (4 Hours): Canifis (Lodestone or Fairy Rings), Tirannwn (Lodestone), Um (Passing Bracelet to Hanging Gardens)
 
-x7 **Tree** (8 Hours for Magic Trees): Falador Park (Falador Teleport/Lodestone), Fort Forinthy (Lodestone), Lumbridge (Lodestone) General Store, Prifddinas Traehaearn District (Crystal Teleport Seed), Taverley (Lodestone), Tree Gnome Stronghold, Varrock (Grand Exchange) Castle Courtyard
+x7 **Tree** (8 Hours for Magic Trees): Falador Park (Falador Teleport/Lodestone), Fort Forinthy (Lodestone), Lumbridge (Lodestone) behind Castle, Prifddinas Traehaearn District (Crystal Teleport Seed), Taverley (Lodestone), Tree Gnome Stronghold, Varrock (Grand Exchange) Castle Courtyard
