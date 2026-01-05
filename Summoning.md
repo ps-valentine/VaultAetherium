@@ -1,5 +1,8 @@
 Gold Charm: Arctic Bear (lv. 84, x1 Polar kebbit fur; +7 invisible Hunter boost); DISASSEMBLE Barker Toad (lv. 66, x1 Swamp toad)
-Green Charm: Abyssal Titan (lv. 93, x1 Abyssal charm; holds 20 essence); DISASSEMBLE Unicorn Stallion (lv. 88, x1 Unicorn horn); Giant Ent (lv. 78, x1 Willow branch; 50% chance at extra produce from bushes, cacti, fruit trees & nightshade); Bunyip (lv. 68, x1 Raw shark; heal 2% HP/15"); Beaver (lv. 33, Willow logs, +2 invisible WC boost)
+
+**Green Charm:** Abyssal Titan (lv. 93, x1 Abyssal charm; holds 20 essence); DISASSEMBLE Unicorn Stallion (lv. 88, x1 Unicorn horn); Giant Ent (lv. 78, x1 Willow branch; 50% chance at extra produce from bushes, cacti, fruit trees & nightshade); Bunyip (lv. 68, x1 Raw shark; heal 2% HP/15"); Beaver (lv. 33, Willow logs, +2 invisible WC boost)
+
 Crimson Charm: Steel Titan (lv. 99, x1 Steel ingot); Pack yak (lv. 96, x1 Yak-hide); Reborn phoenix (lv. 84, x2 Phoenix quill; 7% chance to burn x2 logs at a time, +12 invisible FM boost); Granite lobster (lv. 74, x1 Granite (500g); +4 invisible Fishing boost)
+
 Blue Charm: DISASSEMBLE Rune Minotaur (lv. 86, x1 Rune bar); Lava Titan (lv. 83, x1 Obsidian charm; +10 mining damage, +10 invisible FM boost, tp to Lava Maze)
 Binding Contracts: 
