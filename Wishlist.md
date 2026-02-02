@@ -6,13 +6,15 @@
 **Skills:** Sophanem Slayer Dungeon [ability codex farming]
 
 #### Cosmetics
-**Holiday/Limited Items:** Death Shroud Cape [from Necromancy Founder Pack, 2023]; Duskwing Outfit [Premiere Reward Token]; Aurora Cape [Yak Coin Shop]; Cupid Bow [2015 to 2017]; Ensouled Pumpkin Mask [Grim Harvest or >828M]; Hexer's Wings [Potion Panedmonium]; Ice Wings [2020 Yak Track]; Sunbather's Outfit [135 RuneCoins]
+**Holiday/Limited Items:** Death Shroud Cape [from Necromancy Founder Pack, 2023]; Aurora Cape [Yak Coin Shop]; Cupid Bow [2015 to 2017]; Ensouled Pumpkin Mask [Grim Harvest or >828M]; Hexer's Wings [Potion Panedmonium]; Ice Wings [2020 Yak Track]; Sunbather's Outfit [135 RuneCoins]
 
-**Items:** Golden Cape [19M to 26M on 12-23-2024]; Hobby Unicorn (black) & Hobby Unicorn (White) [Master Treasure Trails or ~1.5M/each]; Hypnotic Parasol; Orthen Furnace Core (102 Archeaology); Pet boulder [80M on 3-27-2025]; Pyjama slippers [Master Treasure Trails]; Sana's fyrtorch (Croesus), Void Knight Armor
+**Items:** Hobby Unicorn (black) & Hobby Unicorn (White) [Master Treasure Trails or ~1.5M/each]; Hypnotic Parasol; Orthen Furnace Core (102 Archeaology); Pet boulder [80M on 3-27-2025]; Pyjama slippers [Master Treasure Trails]; Sana's fyrtorch (Croesus), Void Knight Armor
 
 **Outfit (Overrides):** Arrav Outfit [360 RuneCoins]; Lava Outfit [360 RuneCoins]; Royal Eastern Outfit [360 RuneCoins]; Satyr Outfit [376 RuneCoins]
 
 **Pets:** Infernal Cerberus
+
+**Premier Token:** Crystal Peacock Weapons, Lightning Staff
 
 **Trimmed Skillcapes**
 Slayer > Constitution > Archaeology > Thieving > Firemaking > Invention Master > Divination Master
@@ -24,4 +26,3 @@ Forinthy Royal Knight Armour (270 RC)
 Hellforged Amour (270 RC)
 Night Reaver Outfit (420 RC)
 Stasis Armour (180 RC)
-= 2,250 RC
