@@ -1,12 +1,4 @@
-**Extended super antifire potion**
-- Super antifire (3)
-	- Antifire (3)
-		- Lantadyme potion (unf)
-		- Dragon scale dust
-	- Phoenix feather
-- Clean arbuck
-
-**Elder overload potion**
+#### **Elder overload potion**
 - Supreme overload potion (6)
 	- Crystal flask
 	- Overload (4)
@@ -89,4 +81,18 @@ x2K Potato cactus
 x1K Primal extract
 x2K White berries
 x2K Wine of Zamorak
-
+#### **Extended super antifire potion**
+- Super antifire (3)
+	- Antifire (3)
+		- Lantadyme potion (unf)
+		- Dragon scale dust
+	- Phoenix feather
+- Clean arbuck
+#### **Super prayer renewal potion**
+- Prayer potion (4)
+	- Ranarr potion (unf)
+	- Snape grass
+- Prayer renewal (4)
+	- Fellstalk potion (unf)
+	- Morchella mushroom
+- Crystal flask
