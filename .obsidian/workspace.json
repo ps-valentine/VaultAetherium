@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herblore.md",
+                "file": "Farming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Herblore"
+              "title": "Farming"
             }
           }
         ],
@@ -226,8 +226,8 @@
   },
   "active": "50c1448353172161",
   "lastOpenFiles": [
-    "Hunter.md",
     "Herblore.md",
+    "Hunter.md",
     "Farming.md",
     "MasterQuestCape.md",
     "Wishlist.md",
